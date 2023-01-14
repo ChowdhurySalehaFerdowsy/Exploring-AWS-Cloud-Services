@@ -1,1 +1,18 @@
 hello ister
+
+   1  git --version
+    2  git help
+    3  get config--help
+    4  get config --help
+    5  git config --help
+    6  mkdir test [making a new folder]
+    7  cd test
+    8  git init
+    9  git status
+   10  git add demo.txt [add the file you created to make a commit]
+   11  git commit -m "comitting a text file" [commit those changes to the repository's history with a short message]
+   12  clear
+   13  git config --global user.username ChowdhurySalehaFerdowsy
+   14  git remote add origin https://github.com/ChowdhurySalehaFerdowsy/Demo.git
+   15  git push origin master
+   16  history
