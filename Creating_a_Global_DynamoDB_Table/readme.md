@@ -35,4 +35,3 @@ If we select the table we can see all the information about the table including 
 > Now if we go to the table in N.virginia region we will see that this item is replicated back there.
 
 > If you want to delete the table Project, first delete the one in the N.california(Replica) and then in N.virginia(Source)
-"C:\Users\User\Desktop\CLoud Computing\git\Creating a Global DynamoDB Table\Picture1.png"
