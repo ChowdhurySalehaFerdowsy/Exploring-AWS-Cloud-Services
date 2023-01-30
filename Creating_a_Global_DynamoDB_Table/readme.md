@@ -29,8 +29,11 @@ If we select the table we can see all the information about the table including 
 - Clientid : `test@example.com`
 - Created : `298611611`
 
-!["picture"](Picture1.png)
+!["this is a picture"](C/Users/user/Desktop/CLoudComputing/git/Creating_a_Global_DynamoDB_table/Picture1.png)
 
+<img title="a title" alt="this is a picture1 " src="C/Users/user/Desktop/CLoudComputing/git/Creating_a_Global_DynamoDB_table/Picture1.png"
+
+!["picture"](Picture1.png)
 - From top right corner choose `add new attribute `
 - Choose `boolian` 
 - Type dispatched and set true and then `create item` 
@@ -38,3 +41,5 @@ If we select the table we can see all the information about the table including 
 
 > If you want to delete the table Project, first delete the one in the N.california(Replica) and then in N.virginia(Source)
 
+
+making changes 
