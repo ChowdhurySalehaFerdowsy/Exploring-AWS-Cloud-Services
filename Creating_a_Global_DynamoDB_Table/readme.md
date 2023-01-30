@@ -29,10 +29,6 @@ If we select the table we can see all the information about the table including 
 - Clientid : `test@example.com`
 - Created : `298611611`
 
-!["this is a picture"](C/Users/user/Desktop/CLoudComputing/git/Creating_a_Global_DynamoDB_table/Picture1.png)
-
-<img title="a title" alt="this is a picture1 " src="C/Users/user/Desktop/CLoudComputing/git/Creating_a_Global_DynamoDB_table/Picture1.png"
-
 !["picture"](Picture1.png)
 - From top right corner choose `add new attribute `
 - Choose `boolian` 
