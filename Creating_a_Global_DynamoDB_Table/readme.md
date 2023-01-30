@@ -22,7 +22,7 @@ In this project we will create a DynamoDB table and import data using command li
  - Select the table and click on `global table`
 - Then from the top menu click on `create replica`
 - Available replication Regions : `US west (N.California)`
-> Once the replica creation is completed . We can open US West in another tab and see that the table is duplicated in N.California.
+> Once the replica creation is completed we can then open US West region in another tab and see that the table is duplicated in N.California.
 If we select the table we can see all the information about the table including its own unique ARN
 > Now we will add an item in the table in N.California 
 - Click on `items` and then choose the table . Select `create item`
