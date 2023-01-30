@@ -1,4 +1,5 @@
 In this project we will create a DynamoDB table and import data using command line API. Then we will create a global table so that we can replicate our database to another aws region.
+
 ---
 ## **STEPS**
 ### Step 1 : Creating DynamoDB table 
